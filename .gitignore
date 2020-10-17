@@ -1,0 +1,6 @@
+st
+*.o
+pkg/
+*.pkg.tar.xz
+patches
+.ycm_extra_conf.py
