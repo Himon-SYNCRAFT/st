@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-/* static char *font = "SauceCodePro Nerd Font:pixelsize=13:antialias=true:autohint=true"; */
-static char *font = "SauceCodePro Nerd Font:pixelsize=14:antialias=true:autohint=true";
+static char *font = "SauceCodePro Nerd Font:pixelsize=13:antialias=true:autohint=true";
+/* static char *font = "SauceCodePro Nerd Font:pixelsize=14:antialias=true:autohint=true"; */
 /* static char *font = "SauceCodePro Nerd Font:pixelsize=14:antialias=true:autohint=false:hinting=true:hintstyle=hintfull"; */
 /* static char *font = "mononoki Nerd Font Mono:pixelsize=13:antialias=true:autohint=true"; */
 /* static char *font = "GohuFont Nerd Font:pixelsize=14:antialias=true:autohint=true"; */
