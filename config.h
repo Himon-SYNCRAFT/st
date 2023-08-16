@@ -5,11 +5,13 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hasklug Nerd Font:pixelsize=13:antialias=true:autohint=true";
+static char *font = "Hasklug Nerd Font Med:pixelsize=13:antialias=true:autohint=true";
+/* static char *font = "Hasklug Nerd Font:pixelsize=13:antialias=true:autohint=true"; */
+/* static char *font = "JetBrainsMono Nerd Font:pixelsize=13:antialias=true:autohint=true"; */
 /* static char *font = "SauceCodePro Nerd Font:pixelsize=13:antialias=true:autohint=true"; */
 /* static char *font = "mono:pixelsize=13:antialias=true:autohint=true"; */
 static char *font2[] = { "NotoColorEmoji:pixelsize=10:antialias=true:autohint=true" };
-static int borderpx = 8;
+static int borderpx = 4;
 
 /*
  * What program is execed by st depends of these precedence rules:
@@ -109,7 +111,8 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.8;
+/* float alpha = 0.8; */
+float alpha = 1;
 float alphaOffset = 0.0;
 float alphaUnfocus;
 
