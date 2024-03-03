@@ -5,13 +5,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hasklug Nerd Font Med:pixelsize=13:antialias=true:autohint=true";
-/* static char *font = "Hasklug Nerd Font:pixelsize=13:antialias=true:autohint=true"; */
-/* static char *font = "JetBrainsMono Nerd Font:pixelsize=13:antialias=true:autohint=true"; */
-/* static char *font = "SauceCodePro Nerd Font:pixelsize=13:antialias=true:autohint=true"; */
-/* static char *font = "mono:pixelsize=13:antialias=true:autohint=true"; */
+static char *font = "MonaspiceNe NFM Medium:pixelsize=13:antialias=true:autohint=true";
 static char *font2[] = { "NotoColorEmoji:pixelsize=10:antialias=true:autohint=true" };
-static int borderpx = 4;
+static int borderpx = 6;
 
 /*
  * What program is execed by st depends of these precedence rules:
