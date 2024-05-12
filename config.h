@@ -5,8 +5,12 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "MonaspiceNe NF Medium:pixelsize=13:antialias=true:autohint=true";
+static char *font = "MonaspiceNe NF Medium:pixelsize=13:antialias=true:autohint=true:";
+/* static char *font = "BitstromWera Nerd Font:pixelsize=13:antialias=true:autohint=true:"; */
+/* static char *font = "CommitMonoMedium3:pixelsize=13:antialias=true:autohint=true"; */
+/* static char *font = "JetBrainsMono NF Medium:pixelsize=13:antialias=true:autohint=true:"; */
 /* static char *font = "GeistMono NF Medium:pixelsize=13:antialias=true:autohint=true"; */
+/* static char *font = "SauceCodePro NF Medium:pixelsize=13:antialias=true:autohint=true"; */
 /* static char *font = "BlexMono Nerd Font Mono Medium:pixelsize=13:antialias=true:autohint=true"; */
 static char *font2[] = { "NotoColorEmoji:pixelsize=10:antialias=true:autohint=true" };
 static int borderpx = 8;
